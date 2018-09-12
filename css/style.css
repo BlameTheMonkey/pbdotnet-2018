@@ -242,7 +242,7 @@ img {
     -moz-column-gap: 40px;
     column-gap: 40px;
     line-height: 1.5em;
-    font-size: 1em;
+    font-size: 1.2rem;
     -webkit-column-rule: 1px outset #444;
     -moz-column-rule: 1px outset #444;
     column-rule: 1px outset #444;
