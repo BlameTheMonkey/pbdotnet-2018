@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/snowdevil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://paulbilodeau.net
+  * I am snowdevil (https://keybase.io/snowdevil) on keybase.
+  * I have a public key ASDgpc9gXZySIDrUei2RG6kltlU6G_c00CdoXc1g1YGoHQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b1697ac12a8167b6cedb31f77c298559e1eb17db6246d9b37404abb91d6554ef0a",
+      "host": "keybase.io",
+      "kid": "0120e0a5cf605d9c92203ad47a2d911ba925b6553a1bf734d027685dcd60d581a81d0a",
+      "uid": "313d4e57d5a57ec1163aa918b556fc19",
+      "username": "snowdevil"
+    },
+    "merkle_root": {
+      "ctime": 1509963142,
+      "hash": "f824f164d5fbda154fffb8547d23fcde1f59bcd56fc12cdd7698402a251b73d8590f20408d97dac76374ade5520b006ad12a41cceb445fd06ad9c432a87da262",
+      "hash_meta": "58a083ea2653d30960e6c0b77d2cb7b187ade4c0e3ce178158fb464dd583f797",
+      "seqno": 1671496
+    },
+    "service": {
+      "hostname": "paulbilodeau.net",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.34"
+  },
+  "ctime": 1509963186,
+  "expire_in": 504576000,
+  "prev": "2b3f2c111ec42cb49dcdad8b45bcef1f26e0add31fadc721ba2d70277a2117fb",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4KXPYF2ckiA61HotkRupJbZVOhv3NNAnaF3NYNWBqB0Kp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYjE2OTdhYzEyYTgxNjdiNmNlZGIzMWY3N2MyOTg1NTllMWViMTdkYjYyNDZkOWIzNzQwNGFiYjkxZDY1NTRlZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZTBhNWNmNjA1ZDljOTIyMDNhZDQ3YTJkOTExYmE5MjViNjU1M2ExYmY3MzRkMDI3Njg1ZGNkNjBkNTgxYTgxZDBhIiwidWlkIjoiMzEzZDRlNTdkNWE1N2VjMTE2M2FhOTE4YjU1NmZjMTkiLCJ1c2VybmFtZSI6InNub3dkZXZpbCJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwOTk2MzE0MiwiaGFzaCI6ImY4MjRmMTY0ZDVmYmRhMTU0ZmZmYjg1NDdkMjNmY2RlMWY1OWJjZDU2ZmMxMmNkZDc2OTg0MDJhMjUxYjczZDg1OTBmMjA0MDhkOTdkYWM3NjM3NGFkZTU1MjBiMDA2YWQxMmE0MWNjZWI0NDVmZDA2YWQ5YzQzMmE4N2RhMjYyIiwiaGFzaF9tZXRhIjoiNThhMDgzZWEyNjUzZDMwOTYwZTZjMGI3N2QyY2I3YjE4N2FkZTRjMGUzY2UxNzgxNThmYjQ2NGRkNTgzZjc5NyIsInNlcW5vIjoxNjcxNDk2fSwic2VydmljZSI6eyJob3N0bmFtZSI6InBhdWxiaWxvZGVhdS5uZXQiLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM0In0sImN0aW1lIjoxNTA5OTYzMTg2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjJiM2YyYzExMWVjNDJjYjQ5ZGNkYWQ4YjQ1YmNlZjFmMjZlMGFkZDMxZmFkYzcyMWJhMmQ3MDI3N2EyMTE3ZmIiLCJzZXFubyI6MjAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA+0OdEJGFkAJiwgnKFtxXtez4EVfGPJ3TZovotkLw/D6pRO0EbqcYdKNRTfO6065wR0h6waRzz5n/rJJj3ALAAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKyvvv0qSOCffPO1ip258EnQkwRdGR14aX3KliPsEdqRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/snowdevil
+
+==================================================================
