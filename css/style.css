@@ -237,6 +237,22 @@ img {
   outline: none;
 }
 
+/*Zoom In*/
+ .portfolio img {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
+}
+.portfolio:hover img {
+	-webkit-transform: scale(1.3);
+	transform: scale(1.3);
+}
+figure {
+  overflow: hidden;
+  margin: 0;
+}
+
 @media only all and (min-width: 600px) {
   section {
     -moz-columns: 3;
