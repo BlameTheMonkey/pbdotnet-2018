@@ -29,7 +29,11 @@ a {
   box-shadow: inset 0 -0.1875rem 0 #a3ff9f;
   transition: background-color .25s cubic-bezier(.33, .66, .66, 1);
 }
-
+.portfolio, .portfolio:hover {
+  border-bottom: none;
+  box-shadow: none;
+  background-color: transparent;
+}
 blockquote {
   font-family: 'Oswald', sans-serif;
   line-height: 1.2em;
