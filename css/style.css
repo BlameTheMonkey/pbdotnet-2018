@@ -17,10 +17,31 @@ body {
 
 a {
   text-decoration: none;
-  color: inherit;
+  color: #3c59ff;
+}
+span {
+  position: relative;
 }
 
-a:hover {
+span::before {
+  content: '';
+  position: absolute;
+  height: 2px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #3cefff;
+  transform-origin: bottom left;
+  transform: scaleX(1);
+  transition: transform 0.3s ease-in-out;
+}
+
+span:hover::before {
+  transform: scaleX(0);
+  transform-origin: bottom right;
+}
+
+/* a:hover {
   background-color: #a3ff9f;
 }
 
@@ -28,7 +49,7 @@ a {
   border-bottom: .03rem solid #a3ff9f;
   box-shadow: inset 0 -0.1875rem 0 #a3ff9f;
   transition: background-color .25s cubic-bezier(.33, .66, .66, 1);
-}
+} */
 .portfolio, .portfolio:hover {
   border-bottom: none;
   box-shadow: none;
