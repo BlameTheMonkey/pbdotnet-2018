@@ -5,5 +5,13 @@
 		<loc>https://www.paulbilodeau.net</loc>
 		<priority>0.5</priority>
 	</url>
+	<url>
+		<loc>https://www.paulbilodeau.net/index.html</loc>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://www.paulbilodeau.net/about.html</loc>
+		<priority>0.5</priority>
+	</url>
 <!--XML Sitemap created by Sitemap Automator https://www.ragesw.com-->
 </urlset>
