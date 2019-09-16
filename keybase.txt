@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/snowdevil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://paulbilodeau.net
+  * I am snowdevil (https://keybase.io/snowdevil) on keybase.
+  * I have a public key ASDHYlME19VQMYGBbEHmAwuCS-8wub7RQHDgNDwmIUBM3go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b4973a7fd000969784d8fa286901a3a7021eeca9c75ad2452c96e4cea6b1ca8a0a",
+      "host": "keybase.io",
+      "kid": "0120c7625304d7d5503181816c41e6030b824bef30b9bed14070e0343c2621404cde0a",
+      "uid": "313d4e57d5a57ec1163aa918b556fc19",
+      "username": "snowdevil"
+    },
+    "merkle_root": {
+      "ctime": 1568635225,
+      "hash": "2f5109bd9efc66c2903649e623892db09012f9779e96e93aeecde8d7c80e7b83f323b59d699d704defdfb49b18e5e8accd7507044afb0c02308eda23d2110a39",
+      "hash_meta": "a5e296c0e723b821d40f250b17a28c08ffc1d04cd0022aff4de08afefa345814",
+      "seqno": 7458724
+    },
+    "service": {
+      "entropy": "AC7uzCsm+j6qv5XPZ9Z197rS",
+      "hostname": "paulbilodeau.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568635240,
+  "expire_in": 504576000,
+  "prev": "9fa44909e251c4f334b05f551abe5f695f5f08688285d2f8ac4f6bd7a13f3999",
+  "seqno": 40,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgx2JTBNfVUDGBgWxB5gMLgkvvMLm+0UBw4DQ8JiFATN4Kp3BheWxvYWTESpcCKMQgn6RJCeJRxPM0sF9VGr5faV9fCGiChdL4rE9r16E/OZnEIC6f+ec03voXqbXvvTzxBXND1WAQho856xEE5YG1oE2HAgHCo3NpZ8RAUnOmcfc45wKFHK8xja8LvW71QX6zAIWNq5NO4prylVr4IH2YitACiQk0Jg/P3c7n2whm+fXIJU3j/nWAOXu1A6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPc2O4uOcDrbtN5tSQB0AJBypf0AJdDvHokNALFeDpV0o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/snowdevil
+
+==================================================================
