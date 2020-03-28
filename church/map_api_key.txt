@@ -1,2 +1,0 @@
-Google Maps API key for embedded map
-AIzaSyDR5r4c60kFsQyrbuFnrBjhYHqiPO598U8
